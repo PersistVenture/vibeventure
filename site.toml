@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "site"
+name = "Vibe Ventures"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://www.notion.so/persistventure/Vibe-Ventures-7c75299befd04fdeb9d1b276931a3ad8"
